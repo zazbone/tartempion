@@ -2,4 +2,6 @@ from tartempion.tartes.tarte import Tarte
 
 
 class TartePomme(Tarte):
-    pass
+    """
+    Tarte au pomme ça reste le meilleur.
+    """

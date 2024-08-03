@@ -9,3 +9,4 @@ La documentation presque vide d'un projet vide juste pour montrer comment créer
 	:caption: Contents:
 
 	user_guide
+	api_doc
