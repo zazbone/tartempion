@@ -1,0 +1,23 @@
+[project]
+name = "tartempion_NaN"
+version = "0.0.1"
+description = "Une courte description sur une ligne"
+readme = "README.md"
+license = { file = "LICENSE.txt" }
+authors = [
+    { name = "Bob", email = "bob@example.com" },
+]
+
+classifiers = [
+  "Private :: Do Not Upload",
+]
+
+# Exemple de dépendances
+dependencies = [
+    # "pygame",
+    # "requests",
+]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
