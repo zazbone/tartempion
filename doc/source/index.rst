@@ -5,6 +5,7 @@ La documentation presque vide d'un projet vide juste pour montrer comment créer
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+	:maxdepth: 2
+	:caption: Contents:
 
+	user_guide
